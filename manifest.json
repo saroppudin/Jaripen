@@ -1,0 +1,38 @@
+{
+  "name": "Jaripen",
+  "short_name": "jaripen",
+  "start_url": "https://jaripen.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcLrAM1E7e430soQ_4SyO5UPIwH-C0zbKtP0FcpoVI2geT9XBT4p59_zp0jREy6HBhHF4Ee_3wRv4sjFs-UD9BKPllVju5NScF3Tgn9rvCWGwKO8NeuprfQ-_kND3wEqvbnkMEEiVpop2C9oT5R8bs0f3PgEjz29ZXHM7NftXcIMNPxeqW1CFxzVUVXLQ/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9F6bAk194fdAR-Letf0j0ZHU6aRSFby_bEozpV_vuTSILsQtTgmJRjGRDqjnduDc5xK6FchEUQar3p5Kr3YPP7TUpCyqYZfvc4U08Dq7IkVJuLbaTKd3Y0kEuNJj8TacsDl6TAVl1pw2eTMDrfJM8cRduW2nrIAAGYpJAZlkGZ2b-Uba0ZWo93EzZI6A/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnPdTzC1gXWnxKnEEqQ16jsnVuk1kU0YBepEZeqzjkYFVytA_KqSt09qoIKDN0T8RAl_KoA9Ydm6d5_39nqfkYHLoDtaxeFh1v7Enp-k8taIzzOC0Go06gXnbBhyUbcwF1UWi3AkWjcXYmTTvFJj0dvM_dmHfhl5xkCKivEgWiWVK3Ia7lxia76H9LBKE/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1cQNvilqhXxvdcghxpUzPhxlUkIQ4e9YYGZ8VycpnUVfyHZcFVCqVZRssRhL8qwUy22sdK30F_Q7Ce97g7qZldcjP_S1r2CVNXawG6oINGbJ1IX6PV9HUFVMZUjuZ-1w02s9WUV53HZ6l70jaWduQ4rwJcfACWlIwrscPAV1pmEHOkrN8mEDILw41yWA/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQtpoCrJOGGKOsZVx2YSG2J4xbeMSmPVMw0jVWDTItCwRknEWbO79EbgQ135qYcrBpr0-iUTc1vhiW6hR238LbpOtcxmyTvLpgRUgJnkGUVJWHPB_y5Je5fDRohr538BXtLeiefYSU3PgI7JGhZiM-6bzqUfbb6XZvLdybImssLU-rZVp7Na-VaxOoOno/s1600/android-icon-192x192.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQtpoCrJOGGKOsZVx2YSG2J4xbeMSmPVMw0jVWDTItCwRknEWbO79EbgQ135qYcrBpr0-iUTc1vhiW6hR238LbpOtcxmyTvLpgRUgJnkGUVJWHPB_y5Je5fDRohr538BXtLeiefYSU3PgI7JGhZiM-6bzqUfbb6XZvLdybImssLU-rZVp7Na-VaxOoOno/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQtpoCrJOGGKOsZVx2YSG2J4xbeMSmPVMw0jVWDTItCwRknEWbO79EbgQ135qYcrBpr0-iUTc1vhiW6hR238LbpOtcxmyTvLpgRUgJnkGUVJWHPB_y5Je5fDRohr538BXtLeiefYSU3PgI7JGhZiM-6bzqUfbb6XZvLdybImssLU-rZVp7Na-VaxOoOno/s1600/android-icon-192x192.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
